@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Clickety.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Clickety.cs" Line="29" Column="3" />
+      <File FileName="Assets/Scripts/PlayerControls.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/NPCMove.cs" Line="31" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
